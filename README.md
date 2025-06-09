@@ -1,33 +1,36 @@
-# Pelckmans ++
+# Pelckmans++
 
-**Pelckmans ++** is een gebruikersgerichte browserextensie die het design en de gebruikerservaring van het online leerplatform **Pelckmans Portaal** verbetert. Deze uitbreiding moderniseert het uiterlijk van het platform met een strak, responsief en gebruiksvriendelijk ontwerp, zonder de originele functionaliteit te beïnvloeden.
+Pelckmans++ is een gebruiksvriendelijke browserextensie die het uiterlijk en de gebruikservaring van het Pelckmans Portaal moderniseert. Zonder in te grijpen in de oorspronkelijke functies, geeft deze uitbreiding het platform een frisse, overzichtelijke en responsieve interface.
 
----
+# 🔍 Over het project
+Hoewel het Pelckmans Portaal een krachtig leerplatform is, schiet het op vlak van visueel ontwerp en gebruiksgemak soms tekort. Pelckmans++ biedt een oplossing door:
 
-## 🔍 Over het project
+🎨 Een modern en minimalistisch design toe te voegen
 
-Pelckmans Portaal is een krachtig leerplatform, maar het mist visuele verfijning en gebruiksgemak op sommige vlakken. Pelckmans ++ brengt daar verandering in met:
+📱 De responsiviteit op mobiele apparaten te verbeteren
 
-- 🎨 Een eigentijds en minimalistisch design  
-- 📱 Verbeterde mobiele responsiviteit  
-- 🌙 Donkere modus ondersteuning  
-- 🧭 Duidelijkere navigatie en betere typografie  
-- ⚡ Snellere interactie door lichte optimalisaties in UI  
+🌙 Donkere modus ondersteuning te integreren
 
----
+🧭 De navigatie en typografie te verduidelijken
 
-## ✨ Features
+⚡ Snellere interacties mogelijk te maken met lichte UI-optimalisaties
 
-- 🔧 Aanpasbare thema’s (licht/donker)  
-- 🔍 Verbeterde leesbaarheid en contrast  
-- 📌 Sticky navigatiebalk voor snelle toegang  
-- ✅ Ondersteuning voor toetsenbordnavigatie  
-- 📚 Betere layout voor oefeningen en opdrachten  
+# ✨ Belangrijkste features
+🔧 Thema’s aanpassen – Kies tussen licht of donker
 
----
+🔍 Betere leesbaarheid – Verbeterd contrast en typografie
 
-## 🧑‍💻 Voor wie is dit?
+📌 Sticky navigatiebalk – Altijd snelle toegang tot belangrijke onderdelen
 
-- **Leerlingen** die een aangenamere leerervaring willen  
-- **Leerkrachten** die efficiënter willen navigeren  
-- **Ontwikkelaars** die willen bijdragen aan een open source onderwijsproject  
+✅ Toetsenbordnavigatie – Ondersteuning voor efficiëntere besturing
+
+📚 Geoptimaliseerde layout – Duidelijkere structuur voor oefeningen en opdrachten
+
+# 🧑‍💻 Voor wie?
+Leerlingen die hun leeromgeving overzichtelijker en aangenamer willen maken
+
+Leerkrachten die sneller willen navigeren en minder afleiding willen
+
+Ontwikkelaars die willen bijdragen aan een open-source project voor beter digitaal onderwijs
+
+Laat Pelckmans++ jouw online leerervaring slimmer, sneller en stijlvoller maken.
