@@ -1,1 +1,20 @@
-// Javascript hier
+{
+  "manifest_version": 3,
+  "name": "Pelckmans++",
+  "version": "1.0.0",
+  "description": "Enhance your Pelckmans experience with themes and more",
+  "content_scripts": [
+    {
+      "matches": ["*://www.pelckmansportaal.be/*"],
+      "all_frames": true,
+      "css": ["general.css"],
+      "js": ["general.js"]
+    }
+  ],
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "permissions": ["storage", "unlimitedStorage"]
+}
