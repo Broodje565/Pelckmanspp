@@ -34,3 +34,8 @@ Leerkrachten die sneller willen navigeren en minder afleiding willen
 Ontwikkelaars die willen bijdragen aan een open-source project voor beter digitaal onderwijs
 
 Laat Pelckmans++ jouw online leerervaring slimmer, sneller en stijlvoller maken.
+
+# 👨‍💻 Voor Developers
+
+Wil je een pull request maken of helpen?
+Gebruik de "Prettier" code-formatter anders zal je pull request niet aanvaard worden.
