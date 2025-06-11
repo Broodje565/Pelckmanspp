@@ -8,8 +8,7 @@
       "matches": ["*://www.pelckmansportaal.be/*"],
       "all_frames": true,
       "css": ["general.css"],
-      "js": ["general.js"],
-             "themes.js"
+      "js": ["general.js", "themes.js"]
     }
   ],
   "icons": {
