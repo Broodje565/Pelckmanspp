@@ -9,8 +9,7 @@ const themes = {
     "--color-base03": "#5b5756",
     "--darken-background": "rgba(0,0,0,0.2)",
     "--color-homepage-sidebars-bg": "#02020585",
-    "--loginpage-image":
-      "url(https://4kwallpapers.com/images/wallpapers/desert-doom-sand-dunes-dark-background-monochrome-landscape-2560x1080-6409.jpg)",
+    "--loginpage-image": "url(https://4kwallpapers.com/images/wallpapers/desert-doom-sand-dunes-dark-background-monochrome-landscape-2560x1080-6409.jpg)",
   },
   white: {
     "--color-accent": "#3a4f6d",
@@ -31,7 +30,7 @@ const themes = {
     "--color-base01": "oklch(20% 0.005 70)",
     "--color-base02": "oklch(24% 0.005 70)",
     "--color-base03": "oklch(30% 0.005 70)",
-    "--color-homepage-sidebars-bg": "oklch(15% 0.005 70/ 50%)",
+    "--color-homepage-sidebars-bg": "oklch(15% 0.005 70 / 50%)",
     "--loginpage-image": "url(https://i.redd.it/yfssdsfosao11.png)",
     "--darken-background": "rgba(0,0,0,0.25)",
     "--color-splashtext": "#ffd5a0",
@@ -44,8 +43,7 @@ const themes = {
     "--color-base02": "#250654",
     "--color-base03": "#3f0a74",
     "--color-homepage-sidebars-bg": "#02020585",
-    "--loginpage-image":
-      "url(https://www.hdwallpapers.in/download/macos_monterey_shapes_hd_macos-2560x1440.jpg)",
+    "--loginpage-image": "url(https://www.hdwallpapers.in/download/macos_monterey_shapes_hd_macos-2560x1440.jpg)",
     "--darken-background": "rgba(0,0,0,0.2)",
     "--color-splashtext": "#dfdeff",
   },
@@ -57,8 +55,7 @@ const themes = {
     "--color-base02": "#5c1c1a",
     "--color-base03": "#823530",
     "--color-homepage-sidebars-bg": "#02020585",
-    "--loginpage-image":
-      "url(https://media.timeout.com/images/102945740/image.jpg)",
+    "--loginpage-image": "url(https://media.timeout.com/images/102945740/image.jpg)",
     "--darken-background": "rgba(0,0,0,0.2)",
     "--color-splashtext": "#efc2c3",
   },
@@ -70,8 +67,7 @@ const themes = {
     "--color-base02": "#3b2e2e",
     "--color-base03": "#4c3e3e",
     "--color-homepage-sidebars-bg": "#02020585",
-    "--loginpage-image":
-      "url(https://www.hdwallpapers.in/download/wet_brown_leaves_hd_dark_aesthetic-HD.jpg)",
+    "--loginpage-image": "url(https://www.hdwallpapers.in/download/wet_brown_leaves_hd_dark_aesthetic-HD.jpg)",
     "--darken-background": "rgba(0,0,0,0.3)",
     "--color-splashtext": "#d3b199",
   },
@@ -84,8 +80,7 @@ const themes = {
     "--color-base03": "#bf6f51",
     "--color-homepage-sidebars-bg": "#02020585",
     "--loginpage-image": "url(https://wallpapercave.com/wp/wp7464660.jpg)",
-    "--darken-background": "rgba(0,0,0,0.2)",
-    "--darken-background": "rgba(0,0,0,0.3)",
+    "--darken-background": "rgba(0,0,0,0.3)", // correct laatste waarde
     "--color-splashtext": "#ffe5d3",
   },
   winter: {
@@ -96,8 +91,7 @@ const themes = {
     "--color-base02": "#345f7f",
     "--color-base03": "#5687b6",
     "--color-homepage-sidebars-bg": "#02020585",
-    "--loginpage-image":
-      "url(https://th.bing.com/th/id/R.fd4990dbff7b2d998a61b5a60b6b1949?rik=TkC2r3hdP1Ma9g&pid=ImgRaw&r=0)",
+    "--loginpage-image": "url(https://th.bing.com/th/id/R.fd4990dbff7b2d998a61b5a60b6b1949?rik=TkC2r3hdP1Ma9g&pid=ImgRaw&r=0)",
     "--darken-background": "rgba(0,0,0,0.2)",
     "--color-splashtext": "#7bcfe2",
   },
@@ -133,8 +127,7 @@ const themes = {
     "--color-base02": "#52647c",
     "--color-base03": "#8294ac",
     "--color-homepage-sidebars-bg": "#02020585",
-    "--loginpage-image":
-      "url(https://hdqwalls.com/download/everest-3840x2160.jpg)",
+    "--loginpage-image": "url(https://hdqwalls.com/download/everest-3840x2160.jpg)",
     "--darken-background": "rgba(0,0,0,0.1)",
     "--color-splashtext": "#030c18",
   },
@@ -146,8 +139,7 @@ const themes = {
     "--color-base02": "#b9815d",
     "--color-base03": "#caa288",
     "--color-homepage-sidebars-bg": "#02020585",
-    "--loginpage-image":
-      "url(https://wallpapers.com/images/hd/star-wars-place-ztno3exzqff0m0ci.webp)",
+    "--loginpage-image": "url(https://wallpapers.com/images/hd/star-wars-place-ztno3exzqff0m0ci.webp)",
     "--darken-background": "rgba(0,0,0,0.15)",
     "--color-splashtext": "#7a1600",
   },
@@ -159,8 +151,7 @@ const themes = {
     "--color-base02": "#544848",
     "--color-base03": "#634f4e",
     "--color-homepage-sidebars-bg": "#02020585",
-    "--loginpage-image":
-      "url(https://hdqwalls.com/wallpapers/macos-mojave-dusk-mode-stock-el.jpg)",
+    "--loginpage-image": "url(https://hdqwalls.com/wallpapers/macos-mojave-dusk-mode-stock-el.jpg)",
     "--darken-background": "rgba(0,0,0,0.15)",
     "--color-splashtext": "#e0c7b5",
   },
@@ -172,8 +163,7 @@ const themes = {
     "--color-accent": "#c3be9d",
     "--color-text": "#cfc9b8",
     "--color-homepage-sidebars-bg": "#02020585",
-    "--loginpage-image":
-      "url(https://github.com/NightFlavor/smpp-images/blob/main/watjpg.jpg?raw=true)",
+    "--loginpage-image": "url(https://github.com/NightFlavor/smpp-images/blob/main/watjpg.jpg?raw=true)",
     "--darken-background": "rgba(0,0,0,0.2)",
   },
   galaxy: {
@@ -195,40 +185,35 @@ const themes = {
     "--color-base01": "#fbbecc",
     "--color-base02": "#f0a8c1",
     "--color-base03": "#ea8eb0",
-    "--loginpage-image":
-      "url(https://raw.githubusercontent.com/NightFlavor/smpp-images/refs/heads/main/pxfuel.jpg)",
+    "--loginpage-image": "url(https://raw.githubusercontent.com/NightFlavor/smpp-images/refs/heads/main/pxfuel.jpg)",
     "--darken-background": "rgba(241, 203, 218, 0.35)",
     "--color-homepage-sidebars-bg": "oklch(95.58% 0.0337 351.52 / 10%)",
     "--color-splashtext": "#bf4183",
-
-    castle: {
+  },
+  castle: {
     "--color-accent": "#FFD700",
     "--color-text": "#FFFFFF",
     "--color-base00": "#3E4A89",
     "--color-base01": "#8D7FBC",
     "--color-base02": "#B5A79D",
     "--color-base03": "#6F4F37",
-    "--loginpage-image":
-      "url(https://github.com/superman2775/backgrounds-and-stuff/blob/main/castle.png?raw=true)",
+    "--loginpage-image": "url(https://github.com/superman2775/backgrounds-and-stuff/blob/main/castle.png?raw=true)",
     "--darken-background": "rgba(239, 230, 233, 0.35)",
     "--color-homepage-sidebars-bg": "oklch(95.58% 0.0337 351.52 / 10%)",
     "--color-splashtext": "#000000",
-
-    space: {
+  },
+  space: {
     "--color-accent": "#FFFFFF",
     "--color-text": "#F0F8FF",
     "--color-base00": "#1D2B64",
     "--color-base01": "#FF8C00",
     "--color-base02": "#7A9E9F",
     "--color-base03": "#000000",
-    "--loginpage-image":
-      "url(https://github.com/superman2775/backgrounds-and-stuff/blob/main/planets.png?raw=true)",
+    "--loginpage-image": "url(https://github.com/superman2775/backgrounds-and-stuff/blob/main/planets.png?raw=true)",
     "--darken-background": "rgba(5, 4, 4, 0.35)",
     "--color-homepage-sidebars-bg": "oklch(95.58% 0.0337 351.52 / 10%)",
     "--color-splashtext": "#F0F8FF",
-  },
-};
-
+  }
 let customTheme;
 let currentTheme;
 
@@ -269,16 +254,16 @@ function getThemeQueryString(queryVars = []) {
   if (currentTheme != "custom") {
     queryVars.forEach((queryVar) => {
       themeVar = themes[currentTheme]["--" + queryVar];
-      queryString += `&${queryVar}=${
+      queryString += &${queryVar}=${
         themeVar.startsWith("#") ? themeVar.substring(1) : themeVar
-      }`;
+      };
     });
   } else {
     queryVars.forEach((queryVar) => {
       themeVar = customTheme[queryVar.replace("-", "_")];
-      queryString += `&${queryVar}=${
+      queryString += &${queryVar}=${
         themeVar.startsWith("#") ? themeVar.substring(1) : themeVar
-      }`;
+      };
     });
   }
   queryString = queryString.substring(1);
